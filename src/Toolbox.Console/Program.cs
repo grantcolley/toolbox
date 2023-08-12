@@ -1,1 +1,1 @@
-﻿
+﻿Console.WriteLine("Toolbox.Console");
